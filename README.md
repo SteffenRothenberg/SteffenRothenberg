@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @SteffenRothenberg
-- 👀 I’m interested in Discussions and exchanges with interesting people!
+- 👀 I’m interested in discussions and exchanges with interesting people!
 - 🌱 I’m currently learning Angular.
-- 💞️ I’m looking to collaborate Projects that make life for Humanity easier.
-- 📫 How to reach me ste.rothenberg@gmail.com
+- 💞️ I’m looking to collaborate on Projects that make life for Humanity easier.
+- 📫 How to reach me: ste.rothenberg@gmail.com
 
 <!---
 SteffenRothenberg/SteffenRothenberg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
