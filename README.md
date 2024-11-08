@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SteffenRothenberg
 - 👀 I’m interested in discussions and exchanges with interesting people!
-- 🌱 I’m currently learning Angular and Developing Games with the Godot 4 Engine.
+- 🌱 I’m currently learning Angular, React by using TypeScript and Developing Games with the Unreal 5 Engine using C++.
 - 💞️ I’m looking to collaborate on interesting Projects that make life easier.
 - 📫 How to reach me: ste.rothenberg@gmail.com
 
